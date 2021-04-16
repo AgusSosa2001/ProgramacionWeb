@@ -1,0 +1,17 @@
+.tab {
+  text-align: center;
+  border: solid;
+}
+
+td {
+  border: #ADAFB5;
+  border-style:solid;
+}
+
+.negativo {
+  color: red;
+}
+
+.background {
+  background-color: #CFCFCF;
+}

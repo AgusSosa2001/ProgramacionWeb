@@ -1,0 +1,75 @@
+h2 {
+text-align: center;
+text-decoration: underline;
+}
+
+.tablas {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+caption {
+  margin-bottom: 10px;
+}
+
+.pad {
+  margin: 0px 10px 0px 10px;
+  border: solid;
+}
+
+tr:nth-child(2n+1) {
+  background-color: white;
+}
+
+.numero-0 {
+  background-color: #FFEFC0 ;
+}
+
+.numero-1 {
+  background-color: #FFE2C8 ;
+}
+
+.numero-2 {
+  background-color: #FFD5CF ;
+}
+
+.numero-3 {
+  background-color: #FFC7D7;
+}
+
+.numero-4 {
+  background-color: #FFBADE;
+}
+
+.numero-5 {
+  background-color: #B78FCB;
+}
+
+.numero-6 {
+  background-color: #CB99C7;
+}
+
+.numero-7 {
+  background-color: #EFBBCD;
+}
+
+.numero-8 {
+  background-color: #FFCBD8;
+}
+
+.numero-9 {
+  background-color: #FF91AE;
+}
+
+.numero-10 {
+  background-color: #C0E9EF;
+}
+
+.numero-11 {
+  background-color: #CCB5FB;
+}
+
+.numero-12 {
+  background-color: #D0A4FF;
+}
